@@ -1,0 +1,3 @@
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz;matrixA * matrixB;int;None;clock();10;0.0053993;0.0015287;0.043282%;185.209;
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz;matrixA * matrixB;double;None;clock();10;0.0045631;2.37926e-05;1.24058e-05%;219.149;
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz;matrixA * matrixB;float;None;clock();10;0.0046988;7.18053e-06;1.0973e-06%;212.82;
