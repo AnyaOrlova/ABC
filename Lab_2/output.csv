@@ -1,0 +1,4 @@
+PModel;Task;OpType;Opt;Timer;LNum;AvTime;AbsErr;RelErr;TaskPerf
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz;matrixA * matrixB;OpType: int;Opt: None;clock();10;0.0054627;0.00156192;0.0446589%;183.06;
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz;matrixA * matrixB;OpType: double;Opt: None;clock();10;0.0048058;4.0939e-06;3.48745e-07%;208.082;
+Intel(R) Core(TM) i3-2120 CPU @ 3.30GHz;matrixA * matrixB;OpType: float;Opt: None;clock();10;0.0046255;9.84124e-06;2.09383e-06%;216.193;
